@@ -1,3 +1,5 @@
+@import url(../build/css/_variables.css);
+
 html{
     display: block;
     height: 1024px;
@@ -5,7 +7,7 @@ html{
     padding: 0;
 }
 body {
-    background-color: #F9FAFB;
+    background-color: var(--sd-color-background-base);
     position: relative;
     width: -webkit-fill-available;
     min-height: 100%;
@@ -27,7 +29,7 @@ main{
     left: 250px;
     top: 65px;
 
-    background: #FFFFFF;
+    background: var(--sd-color-background-light);
 }
 
 form{
@@ -39,25 +41,6 @@ form{
     
     width: 380px;
 }
-    
-/* form.input_field{
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding: 10px 16px;
-    gap: 10px;
-    width: inherit;
-    height: 44px;
-    background: #FFFFFF;
-    border: 1px solid #98A2B3;
-    border-radius: 8px;
-    flex: none;
-    order: 1;
-    align-self: stretch;
-    flex-grow: 0;
-} */
-
 
 a{
     text-decoration: none;
@@ -212,7 +195,7 @@ label{
     align-items: center;
     text-align: center;
     text-transform: capitalize;
-    background: #FFDD00;
+    background: var(--sd-color-background-primary);
     color: #344054;
     border-radius: 100px;
     border-width: 0px;
@@ -243,16 +226,16 @@ label{
 .color_primary{
     /* Primary/300 */
     
-    background: #FFDD00;
+    background: var(--sd-color-background-primary);
 }
 
 .color_error{
     /* Gray/200 */
 
-    color: #EAECF0;
+    color: var(--sd-color-type-white);
     /* Error/500 */
 
-    background: #F04438;
+    background: var(--sd-color-background-error);
 }
 
 main#login{
@@ -427,7 +410,7 @@ header{
     top: 0px;
     left: 0px;
     
-    background: #FFDD00;
+    background: var(--sd-color-background-primary);
     /* Shadow/sm */
 
     box-shadow: 0px 1px 3px rgba(16, 24, 40, 0.1), 0px 1px 2px rgba(16, 24, 40, 0.06);
@@ -542,7 +525,7 @@ footer{
     right: -8px;
     bottom: 0px;
 
-    background: #FFDD00;
+    background: var(--sd-color-background-primary);
 }
 
 /* sidebar */
@@ -557,7 +540,7 @@ footer{
     position: absolute;
     height: -webkit-fill-available;
 
-    background: #FFFFFF;
+    background: var(--sd-color-background-light);
     border-width: 0px;
 /* Shadow/sm */
 
@@ -609,7 +592,7 @@ footer{
     width: 202px;
     height: 44px;
 
-    background: #ffeb74;
+    background: var(--sd-color-background-primary-light);
     border-radius: 10px;
     border-width: 0px;
 }
@@ -646,7 +629,7 @@ footer{
     
     /* Primary/300 */
     
-    background: #FFDD00;
+    background: var(--sd-color-background-primary);
     border-radius: 100px; 
 }
 
