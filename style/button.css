@@ -1,0 +1,23 @@
+button{
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 24px;
+    
+    width: 96px;
+    height: 44px;
+    
+    /* color/button1/base */
+    
+    background: #FFDD00;
+    border-radius: 28px;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}

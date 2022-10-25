@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-RvQxwf+3zJuNwl4e0sZjQeX7kUa3o82bDETpgVCH2RiwYSZVDdFJ7N/woNigN/ldyOOoKw8584jM4plQdt8bhA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/fontawesome/all.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;400;500;600;700;800&display=swap" rel="stylesheet">
+    <title>ASS</title>
+</head>
+<body style="background-color: #FEF8DD">
+    <main id="login" class="center">
+        <div class="login_text">
+            <img class="logo" src="assets/logo-Adira.png" alt="logo">
+            <div>
+                <h1>Selamat Datang</h1>
+                <h3>Masuk untuk melanjutkan</h3>
+            </div> 
+        </div>
+        <div class="login_content">
+            <div class="login_field_group">
+                <div class="frame">
+                    <form class="input_field">
+                        <label for="NIP">NIP</label>
+                        <div class="content">
+                            <i class="fa-solid fa-user"></i>
+                            <input type="text" id="NIP" name="NIP" placeholder="NIP"> 
+                        </div>
+                    </form>
+                    <div class="checkbox">
+                        <input type="checkbox" class="checkbox"> 
+                        <div class="checkbox_label">Remember Me</div>  
+                    </div>
+                </div>
+
+                <div class="frame">
+                    <form class="input_field">
+                        <label for="Password">Password</label>
+                        <div class="content">
+                            <i class="fa-solid fa-key"></i>
+                            <input type="password" id="password" name="password" placeholder="Password"> 
+                        </div>
+                    </form>
+                    <a href="#">Forgot Password</a>
+                </div>
+            </div>
+            <button class="button" onclick="document.location='page/object-rekon.html'">Login</button>
+        </div>
+    </main>
+</body>
+</html>
