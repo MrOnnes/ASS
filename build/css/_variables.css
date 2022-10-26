@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 26 Oct 2022 03:30:52 GMT
+ * Generated on Wed, 26 Oct 2022 03:40:16 GMT
  */
 
 :root {
@@ -40,7 +40,7 @@
   --sd-shape-display-cards-radius: 12px;
   --sd-shape-display-dialogs-radius: 28px;
   --sd-shape-display-tabs-radius: 8px;
-  --sd-typo-h1-font-family: Inter;
+  --sd-typo-h1-font-family: 'Inter';
   --sd-typo-h1-font-weight: 600;
   --sd-typo-h1-line-height: 38px;
   --sd-typo-h1-font-size: 30px;
@@ -48,7 +48,7 @@
   --sd-typo-h1-paragraph-spacing: 30;
   --sd-typo-h1-text-case: none;
   --sd-typo-h1-text-decoration: none;
-  --sd-typo-h2-font-family: Inter;
+  --sd-typo-h2-font-family: 'Inter';
   --sd-typo-h2-font-weight: 600;
   --sd-typo-h2-line-height: 32px;
   --sd-typo-h2-font-size: 24px;
@@ -56,7 +56,7 @@
   --sd-typo-h2-paragraph-spacing: 24;
   --sd-typo-h2-text-case: none;
   --sd-typo-h2-text-decoration: none;
-  --sd-typo-h3-font-family: Inter;
+  --sd-typo-h3-font-family: 'Inter';
   --sd-typo-h3-font-weight: 600;
   --sd-typo-h3-line-height: 30px;
   --sd-typo-h3-font-size: 20px;
@@ -64,7 +64,7 @@
   --sd-typo-h3-paragraph-spacing: 20;
   --sd-typo-h3-text-case: none;
   --sd-typo-h3-text-decoration: none;
-  --sd-typo-h4-font-family: Inter;
+  --sd-typo-h4-font-family: 'Inter';
   --sd-typo-h4-font-weight: 600;
   --sd-typo-h4-line-height: 28px;
   --sd-typo-h4-font-size: 18px;
@@ -72,7 +72,7 @@
   --sd-typo-h4-paragraph-spacing: 18;
   --sd-typo-h4-text-case: none;
   --sd-typo-h4-text-decoration: none;
-  --sd-typo-h5-font-family: Inter;
+  --sd-typo-h5-font-family: 'Inter';
   --sd-typo-h5-font-weight: 500;
   --sd-typo-h5-line-height: 24px;
   --sd-typo-h5-font-size: 16px;
@@ -80,7 +80,7 @@
   --sd-typo-h5-paragraph-spacing: 16;
   --sd-typo-h5-text-case: none;
   --sd-typo-h5-text-decoration: none;
-  --sd-typo-subtitle1-font-family: Inter;
+  --sd-typo-subtitle1-font-family: 'Inter';
   --sd-typo-subtitle1-font-weight: 700;
   --sd-typo-subtitle1-line-height: 24px;
   --sd-typo-subtitle1-font-size: 16px;
@@ -88,7 +88,7 @@
   --sd-typo-subtitle1-paragraph-spacing: 16;
   --sd-typo-subtitle1-text-case: none;
   --sd-typo-subtitle1-text-decoration: none;
-  --sd-typo-subtitle2-font-family: Inter;
+  --sd-typo-subtitle2-font-family: 'Inter';
   --sd-typo-subtitle2-font-weight: 700;
   --sd-typo-subtitle2-line-height: 20px;
   --sd-typo-subtitle2-font-size: 14px;
@@ -96,7 +96,7 @@
   --sd-typo-subtitle2-paragraph-spacing: 14;
   --sd-typo-subtitle2-text-case: none;
   --sd-typo-subtitle2-text-decoration: none;
-  --sd-typo-body1-font-family: Inter;
+  --sd-typo-body1-font-family: 'Inter';
   --sd-typo-body1-font-weight: 400;
   --sd-typo-body1-line-height: 24px;
   --sd-typo-body1-font-size: 16px;
@@ -104,7 +104,7 @@
   --sd-typo-body1-paragraph-spacing: 16;
   --sd-typo-body1-text-case: none;
   --sd-typo-body1-text-decoration: none;
-  --sd-typo-body2-font-family: Inter;
+  --sd-typo-body2-font-family: 'Inter';
   --sd-typo-body2-font-weight: 400;
   --sd-typo-body2-line-height: 20px;
   --sd-typo-body2-font-size: 14px;
@@ -112,7 +112,7 @@
   --sd-typo-body2-paragraph-spacing: 14;
   --sd-typo-body2-text-case: none;
   --sd-typo-body2-text-decoration: none;
-  --sd-typo-button1-font-family: Inter;
+  --sd-typo-button1-font-family: 'Inter';
   --sd-typo-button1-font-weight: 600;
   --sd-typo-button1-line-height: 24px;
   --sd-typo-button1-font-size: 14px;
@@ -120,7 +120,7 @@
   --sd-typo-button1-paragraph-spacing: 16;
   --sd-typo-button1-text-case: none;
   --sd-typo-button1-text-decoration: none;
-  --sd-typo-button2-font-family: Inter;
+  --sd-typo-button2-font-family: 'Inter';
   --sd-typo-button2-font-weight: 500;
   --sd-typo-button2-line-height: 20px;
   --sd-typo-button2-font-size: 12px;
@@ -128,7 +128,7 @@
   --sd-typo-button2-paragraph-spacing: 14;
   --sd-typo-button2-text-case: none;
   --sd-typo-button2-text-decoration: none;
-  --sd-typo-label-font-family: Inter;
+  --sd-typo-label-font-family: 'Inter';
   --sd-typo-label-font-weight: 600;
   --sd-typo-label-line-height: 18px;
   --sd-typo-label-font-size: 12px;
@@ -136,7 +136,7 @@
   --sd-typo-label-paragraph-spacing: 12;
   --sd-typo-label-text-case: none;
   --sd-typo-label-text-decoration: none;
-  --sd-typo-caption-font-family: Inter;
+  --sd-typo-caption-font-family: 'Inter';
   --sd-typo-caption-font-weight: 400;
   --sd-typo-caption-line-height: 18px;
   --sd-typo-caption-font-size: 12px;
@@ -144,7 +144,7 @@
   --sd-typo-caption-paragraph-spacing: 12;
   --sd-typo-caption-text-case: none;
   --sd-typo-caption-text-decoration: none;
-  --sd-text-text-xl-bold-font-family: Inter;
+  --sd-text-text-xl-bold-font-family: 'Inter';
   --sd-text-text-xl-bold-font-weight: 700;
   --sd-text-text-xl-bold-line-height: 30px;
   --sd-text-text-xl-bold-font-size: 20px;
@@ -152,7 +152,7 @@
   --sd-text-text-xl-bold-paragraph-spacing: 20;
   --sd-text-text-xl-bold-text-case: none;
   --sd-text-text-xl-bold-text-decoration: none;
-  --sd-text-text-xl-semibold-font-family: Inter;
+  --sd-text-text-xl-semibold-font-family: 'Inter';
   --sd-text-text-xl-semibold-font-weight: 600;
   --sd-text-text-xl-semibold-line-height: 30px;
   --sd-text-text-xl-semibold-font-size: 20px;
@@ -160,7 +160,7 @@
   --sd-text-text-xl-semibold-paragraph-spacing: 20;
   --sd-text-text-xl-semibold-text-case: none;
   --sd-text-text-xl-semibold-text-decoration: none;
-  --sd-text-text-xl-medium-font-family: Inter;
+  --sd-text-text-xl-medium-font-family: 'Inter';
   --sd-text-text-xl-medium-font-weight: 500;
   --sd-text-text-xl-medium-line-height: 30px;
   --sd-text-text-xl-medium-font-size: 20px;
@@ -168,7 +168,7 @@
   --sd-text-text-xl-medium-paragraph-spacing: 20;
   --sd-text-text-xl-medium-text-case: none;
   --sd-text-text-xl-medium-text-decoration: none;
-  --sd-text-text-xl-regular-font-family: Inter;
+  --sd-text-text-xl-regular-font-family: 'Inter';
   --sd-text-text-xl-regular-font-weight: 400;
   --sd-text-text-xl-regular-line-height: 30px;
   --sd-text-text-xl-regular-font-size: 20px;
@@ -176,7 +176,7 @@
   --sd-text-text-xl-regular-paragraph-spacing: 20;
   --sd-text-text-xl-regular-text-case: none;
   --sd-text-text-xl-regular-text-decoration: none;
-  --sd-text-text-lg-bold-font-family: Inter;
+  --sd-text-text-lg-bold-font-family: 'Inter';
   --sd-text-text-lg-bold-font-weight: 700;
   --sd-text-text-lg-bold-line-height: 28px;
   --sd-text-text-lg-bold-font-size: 18px;
@@ -184,7 +184,7 @@
   --sd-text-text-lg-bold-paragraph-spacing: 18;
   --sd-text-text-lg-bold-text-case: none;
   --sd-text-text-lg-bold-text-decoration: none;
-  --sd-text-text-lg-semibold-font-family: Inter;
+  --sd-text-text-lg-semibold-font-family: 'Inter';
   --sd-text-text-lg-semibold-font-weight: 600;
   --sd-text-text-lg-semibold-line-height: 28px;
   --sd-text-text-lg-semibold-font-size: 18px;
@@ -192,7 +192,7 @@
   --sd-text-text-lg-semibold-paragraph-spacing: 18;
   --sd-text-text-lg-semibold-text-case: none;
   --sd-text-text-lg-semibold-text-decoration: none;
-  --sd-text-text-lg-medium-font-family: Inter;
+  --sd-text-text-lg-medium-font-family: 'Inter';
   --sd-text-text-lg-medium-font-weight: 500;
   --sd-text-text-lg-medium-line-height: 28px;
   --sd-text-text-lg-medium-font-size: 18px;
@@ -200,7 +200,7 @@
   --sd-text-text-lg-medium-paragraph-spacing: 18;
   --sd-text-text-lg-medium-text-case: none;
   --sd-text-text-lg-medium-text-decoration: none;
-  --sd-text-text-lg-regular-font-family: Inter;
+  --sd-text-text-lg-regular-font-family: 'Inter';
   --sd-text-text-lg-regular-font-weight: 400;
   --sd-text-text-lg-regular-line-height: 28px;
   --sd-text-text-lg-regular-font-size: 18px;
@@ -208,7 +208,7 @@
   --sd-text-text-lg-regular-paragraph-spacing: 18;
   --sd-text-text-lg-regular-text-case: none;
   --sd-text-text-lg-regular-text-decoration: none;
-  --sd-text-text-md-bold-font-family: Inter;
+  --sd-text-text-md-bold-font-family: 'Inter';
   --sd-text-text-md-bold-font-weight: 700;
   --sd-text-text-md-bold-line-height: 24px;
   --sd-text-text-md-bold-font-size: 16px;
@@ -216,7 +216,7 @@
   --sd-text-text-md-bold-paragraph-spacing: 16;
   --sd-text-text-md-bold-text-case: none;
   --sd-text-text-md-bold-text-decoration: none;
-  --sd-text-text-md-semibold-font-family: Inter;
+  --sd-text-text-md-semibold-font-family: 'Inter';
   --sd-text-text-md-semibold-font-weight: 600;
   --sd-text-text-md-semibold-line-height: 24px;
   --sd-text-text-md-semibold-font-size: 16px;
@@ -224,7 +224,7 @@
   --sd-text-text-md-semibold-paragraph-spacing: 16;
   --sd-text-text-md-semibold-text-case: none;
   --sd-text-text-md-semibold-text-decoration: none;
-  --sd-text-text-md-medium-font-family: Inter;
+  --sd-text-text-md-medium-font-family: 'Inter';
   --sd-text-text-md-medium-font-weight: 500;
   --sd-text-text-md-medium-line-height: 24px;
   --sd-text-text-md-medium-font-size: 16px;
@@ -232,7 +232,7 @@
   --sd-text-text-md-medium-paragraph-spacing: 16;
   --sd-text-text-md-medium-text-case: none;
   --sd-text-text-md-medium-text-decoration: none;
-  --sd-text-text-md-regular-font-family: Inter;
+  --sd-text-text-md-regular-font-family: 'Inter';
   --sd-text-text-md-regular-font-weight: 400;
   --sd-text-text-md-regular-line-height: 24px;
   --sd-text-text-md-regular-font-size: 16px;
@@ -240,7 +240,7 @@
   --sd-text-text-md-regular-paragraph-spacing: 16;
   --sd-text-text-md-regular-text-case: none;
   --sd-text-text-md-regular-text-decoration: none;
-  --sd-text-text-sm-bold-font-family: Inter;
+  --sd-text-text-sm-bold-font-family: 'Inter';
   --sd-text-text-sm-bold-font-weight: 700;
   --sd-text-text-sm-bold-line-height: 20px;
   --sd-text-text-sm-bold-font-size: 14px;
@@ -248,7 +248,7 @@
   --sd-text-text-sm-bold-paragraph-spacing: 14;
   --sd-text-text-sm-bold-text-case: none;
   --sd-text-text-sm-bold-text-decoration: none;
-  --sd-text-text-sm-semibold-font-family: Inter;
+  --sd-text-text-sm-semibold-font-family: 'Inter';
   --sd-text-text-sm-semibold-font-weight: 600;
   --sd-text-text-sm-semibold-line-height: 20px;
   --sd-text-text-sm-semibold-font-size: 14px;
@@ -256,7 +256,7 @@
   --sd-text-text-sm-semibold-paragraph-spacing: 14;
   --sd-text-text-sm-semibold-text-case: none;
   --sd-text-text-sm-semibold-text-decoration: none;
-  --sd-text-text-sm-medium-font-family: Inter;
+  --sd-text-text-sm-medium-font-family: 'Inter';
   --sd-text-text-sm-medium-font-weight: 500;
   --sd-text-text-sm-medium-line-height: 20px;
   --sd-text-text-sm-medium-font-size: 14px;
@@ -264,7 +264,7 @@
   --sd-text-text-sm-medium-paragraph-spacing: 14;
   --sd-text-text-sm-medium-text-case: none;
   --sd-text-text-sm-medium-text-decoration: none;
-  --sd-text-text-sm-regular-font-family: Inter;
+  --sd-text-text-sm-regular-font-family: 'Inter';
   --sd-text-text-sm-regular-font-weight: 400;
   --sd-text-text-sm-regular-line-height: 20px;
   --sd-text-text-sm-regular-font-size: 14px;
@@ -272,7 +272,7 @@
   --sd-text-text-sm-regular-paragraph-spacing: 14;
   --sd-text-text-sm-regular-text-case: none;
   --sd-text-text-sm-regular-text-decoration: none;
-  --sd-text-text-xs-bold-font-family: Inter;
+  --sd-text-text-xs-bold-font-family: 'Inter';
   --sd-text-text-xs-bold-font-weight: 700;
   --sd-text-text-xs-bold-line-height: 18px;
   --sd-text-text-xs-bold-font-size: 12px;
@@ -280,7 +280,7 @@
   --sd-text-text-xs-bold-paragraph-spacing: 12;
   --sd-text-text-xs-bold-text-case: none;
   --sd-text-text-xs-bold-text-decoration: none;
-  --sd-text-text-xs-semibold-font-family: Inter;
+  --sd-text-text-xs-semibold-font-family: 'Inter';
   --sd-text-text-xs-semibold-font-weight: 600;
   --sd-text-text-xs-semibold-line-height: 18px;
   --sd-text-text-xs-semibold-font-size: 12px;
@@ -288,7 +288,7 @@
   --sd-text-text-xs-semibold-paragraph-spacing: 12;
   --sd-text-text-xs-semibold-text-case: none;
   --sd-text-text-xs-semibold-text-decoration: none;
-  --sd-text-text-xs-medium-font-family: Inter;
+  --sd-text-text-xs-medium-font-family: 'Inter';
   --sd-text-text-xs-medium-font-weight: 500;
   --sd-text-text-xs-medium-line-height: 18px;
   --sd-text-text-xs-medium-font-size: 12px;
@@ -296,7 +296,7 @@
   --sd-text-text-xs-medium-paragraph-spacing: 12;
   --sd-text-text-xs-medium-text-case: none;
   --sd-text-text-xs-medium-text-decoration: none;
-  --sd-text-text-xs-regular-font-family: Inter;
+  --sd-text-text-xs-regular-font-family: 'Inter';
   --sd-text-text-xs-regular-font-weight: 400;
   --sd-text-text-xs-regular-line-height: 18px;
   --sd-text-text-xs-regular-font-size: 12px;
@@ -304,7 +304,7 @@
   --sd-text-text-xs-regular-paragraph-spacing: 12;
   --sd-text-text-xs-regular-text-case: none;
   --sd-text-text-xs-regular-text-decoration: none;
-  --sd-display-display-2xl-bold-font-family: Inter;
+  --sd-display-display-2xl-bold-font-family: 'Inter';
   --sd-display-display-2xl-bold-font-weight: 700;
   --sd-display-display-2xl-bold-line-height: 90px;
   --sd-display-display-2xl-bold-font-size: 72px;
@@ -312,7 +312,7 @@
   --sd-display-display-2xl-bold-paragraph-spacing: 72;
   --sd-display-display-2xl-bold-text-case: none;
   --sd-display-display-2xl-bold-text-decoration: none;
-  --sd-display-display-2xl-semibold-font-family: Inter;
+  --sd-display-display-2xl-semibold-font-family: 'Inter';
   --sd-display-display-2xl-semibold-font-weight: 600;
   --sd-display-display-2xl-semibold-line-height: 90px;
   --sd-display-display-2xl-semibold-font-size: 72px;
@@ -320,7 +320,7 @@
   --sd-display-display-2xl-semibold-paragraph-spacing: 72;
   --sd-display-display-2xl-semibold-text-case: none;
   --sd-display-display-2xl-semibold-text-decoration: none;
-  --sd-display-display-2xl-medium-font-family: Inter;
+  --sd-display-display-2xl-medium-font-family: 'Inter';
   --sd-display-display-2xl-medium-font-weight: 500;
   --sd-display-display-2xl-medium-line-height: 90px;
   --sd-display-display-2xl-medium-font-size: 72px;
@@ -328,7 +328,7 @@
   --sd-display-display-2xl-medium-paragraph-spacing: 72;
   --sd-display-display-2xl-medium-text-case: none;
   --sd-display-display-2xl-medium-text-decoration: none;
-  --sd-display-display-2xl-regular-font-family: Inter;
+  --sd-display-display-2xl-regular-font-family: 'Inter';
   --sd-display-display-2xl-regular-font-weight: 400;
   --sd-display-display-2xl-regular-line-height: 90px;
   --sd-display-display-2xl-regular-font-size: 72px;
@@ -336,7 +336,7 @@
   --sd-display-display-2xl-regular-paragraph-spacing: 72;
   --sd-display-display-2xl-regular-text-case: none;
   --sd-display-display-2xl-regular-text-decoration: none;
-  --sd-display-display-xl-bold-font-family: Inter;
+  --sd-display-display-xl-bold-font-family: 'Inter';
   --sd-display-display-xl-bold-font-weight: 700;
   --sd-display-display-xl-bold-line-height: 72px;
   --sd-display-display-xl-bold-font-size: 60px;
@@ -344,7 +344,7 @@
   --sd-display-display-xl-bold-paragraph-spacing: 60;
   --sd-display-display-xl-bold-text-case: none;
   --sd-display-display-xl-bold-text-decoration: none;
-  --sd-display-display-xl-semibold-font-family: Inter;
+  --sd-display-display-xl-semibold-font-family: 'Inter';
   --sd-display-display-xl-semibold-font-weight: 600;
   --sd-display-display-xl-semibold-line-height: 72px;
   --sd-display-display-xl-semibold-font-size: 60px;
@@ -352,7 +352,7 @@
   --sd-display-display-xl-semibold-paragraph-spacing: 60;
   --sd-display-display-xl-semibold-text-case: none;
   --sd-display-display-xl-semibold-text-decoration: none;
-  --sd-display-display-xl-medium-font-family: Inter;
+  --sd-display-display-xl-medium-font-family: 'Inter';
   --sd-display-display-xl-medium-font-weight: 500;
   --sd-display-display-xl-medium-line-height: 72px;
   --sd-display-display-xl-medium-font-size: 60px;
@@ -360,7 +360,7 @@
   --sd-display-display-xl-medium-paragraph-spacing: 60;
   --sd-display-display-xl-medium-text-case: none;
   --sd-display-display-xl-medium-text-decoration: none;
-  --sd-display-display-xl-regular-font-family: Inter;
+  --sd-display-display-xl-regular-font-family: 'Inter';
   --sd-display-display-xl-regular-font-weight: 400;
   --sd-display-display-xl-regular-line-height: 72px;
   --sd-display-display-xl-regular-font-size: 60px;
@@ -368,7 +368,7 @@
   --sd-display-display-xl-regular-paragraph-spacing: 60;
   --sd-display-display-xl-regular-text-case: none;
   --sd-display-display-xl-regular-text-decoration: none;
-  --sd-display-display-lg-bold-font-family: Inter;
+  --sd-display-display-lg-bold-font-family: 'Inter';
   --sd-display-display-lg-bold-font-weight: 700;
   --sd-display-display-lg-bold-line-height: 60px;
   --sd-display-display-lg-bold-font-size: 48px;
@@ -376,7 +376,7 @@
   --sd-display-display-lg-bold-paragraph-spacing: 48;
   --sd-display-display-lg-bold-text-case: none;
   --sd-display-display-lg-bold-text-decoration: none;
-  --sd-display-display-lg-semibold-font-family: Inter;
+  --sd-display-display-lg-semibold-font-family: 'Inter';
   --sd-display-display-lg-semibold-font-weight: 600;
   --sd-display-display-lg-semibold-line-height: 60px;
   --sd-display-display-lg-semibold-font-size: 48px;
@@ -384,7 +384,7 @@
   --sd-display-display-lg-semibold-paragraph-spacing: 48;
   --sd-display-display-lg-semibold-text-case: none;
   --sd-display-display-lg-semibold-text-decoration: none;
-  --sd-display-display-lg-medium-font-family: Inter;
+  --sd-display-display-lg-medium-font-family: 'Inter';
   --sd-display-display-lg-medium-font-weight: 500;
   --sd-display-display-lg-medium-line-height: 60px;
   --sd-display-display-lg-medium-font-size: 48px;
@@ -392,7 +392,7 @@
   --sd-display-display-lg-medium-paragraph-spacing: 48;
   --sd-display-display-lg-medium-text-case: none;
   --sd-display-display-lg-medium-text-decoration: none;
-  --sd-display-display-lg-regular-font-family: Inter;
+  --sd-display-display-lg-regular-font-family: 'Inter';
   --sd-display-display-lg-regular-font-weight: 400;
   --sd-display-display-lg-regular-line-height: 60px;
   --sd-display-display-lg-regular-font-size: 48px;
@@ -400,7 +400,7 @@
   --sd-display-display-lg-regular-paragraph-spacing: 48;
   --sd-display-display-lg-regular-text-case: none;
   --sd-display-display-lg-regular-text-decoration: none;
-  --sd-display-display-md-bold-font-family: Inter;
+  --sd-display-display-md-bold-font-family: 'Inter';
   --sd-display-display-md-bold-font-weight: 700;
   --sd-display-display-md-bold-line-height: 44px;
   --sd-display-display-md-bold-font-size: 36px;
@@ -408,7 +408,7 @@
   --sd-display-display-md-bold-paragraph-spacing: 36;
   --sd-display-display-md-bold-text-case: none;
   --sd-display-display-md-bold-text-decoration: none;
-  --sd-display-display-md-semibold-font-family: Inter;
+  --sd-display-display-md-semibold-font-family: 'Inter';
   --sd-display-display-md-semibold-font-weight: 600;
   --sd-display-display-md-semibold-line-height: 44px;
   --sd-display-display-md-semibold-font-size: 36px;
@@ -416,7 +416,7 @@
   --sd-display-display-md-semibold-paragraph-spacing: 36;
   --sd-display-display-md-semibold-text-case: none;
   --sd-display-display-md-semibold-text-decoration: none;
-  --sd-display-display-md-medium-font-family: Inter;
+  --sd-display-display-md-medium-font-family: 'Inter';
   --sd-display-display-md-medium-font-weight: 500;
   --sd-display-display-md-medium-line-height: 44px;
   --sd-display-display-md-medium-font-size: 36px;
@@ -424,7 +424,7 @@
   --sd-display-display-md-medium-paragraph-spacing: 36;
   --sd-display-display-md-medium-text-case: none;
   --sd-display-display-md-medium-text-decoration: none;
-  --sd-display-display-md-regular-font-family: Inter;
+  --sd-display-display-md-regular-font-family: 'Inter';
   --sd-display-display-md-regular-font-weight: 400;
   --sd-display-display-md-regular-line-height: 44px;
   --sd-display-display-md-regular-font-size: 36px;
@@ -432,7 +432,7 @@
   --sd-display-display-md-regular-paragraph-spacing: 36;
   --sd-display-display-md-regular-text-case: none;
   --sd-display-display-md-regular-text-decoration: none;
-  --sd-display-display-sm-bold-font-family: Inter;
+  --sd-display-display-sm-bold-font-family: 'Inter';
   --sd-display-display-sm-bold-font-weight: 700;
   --sd-display-display-sm-bold-line-height: 38px;
   --sd-display-display-sm-bold-font-size: 30px;
@@ -440,7 +440,7 @@
   --sd-display-display-sm-bold-paragraph-spacing: 30;
   --sd-display-display-sm-bold-text-case: none;
   --sd-display-display-sm-bold-text-decoration: none;
-  --sd-display-display-sm-semibold-font-family: Inter;
+  --sd-display-display-sm-semibold-font-family: 'Inter';
   --sd-display-display-sm-semibold-font-weight: 600;
   --sd-display-display-sm-semibold-line-height: 38px;
   --sd-display-display-sm-semibold-font-size: 30px;
@@ -448,7 +448,7 @@
   --sd-display-display-sm-semibold-paragraph-spacing: 30;
   --sd-display-display-sm-semibold-text-case: none;
   --sd-display-display-sm-semibold-text-decoration: none;
-  --sd-display-display-sm-medium-font-family: Inter;
+  --sd-display-display-sm-medium-font-family: 'Inter';
   --sd-display-display-sm-medium-font-weight: 500;
   --sd-display-display-sm-medium-line-height: 38px;
   --sd-display-display-sm-medium-font-size: 30px;
@@ -456,7 +456,7 @@
   --sd-display-display-sm-medium-paragraph-spacing: 30;
   --sd-display-display-sm-medium-text-case: none;
   --sd-display-display-sm-medium-text-decoration: none;
-  --sd-display-display-sm-regular-font-family: Inter;
+  --sd-display-display-sm-regular-font-family: 'Inter';
   --sd-display-display-sm-regular-font-weight: 400;
   --sd-display-display-sm-regular-line-height: 38px;
   --sd-display-display-sm-regular-font-size: 30px;
@@ -464,7 +464,7 @@
   --sd-display-display-sm-regular-paragraph-spacing: 30;
   --sd-display-display-sm-regular-text-case: none;
   --sd-display-display-sm-regular-text-decoration: none;
-  --sd-display-display-xs-bold-font-family: Inter;
+  --sd-display-display-xs-bold-font-family: 'Inter';
   --sd-display-display-xs-bold-font-weight: 700;
   --sd-display-display-xs-bold-line-height: 32px;
   --sd-display-display-xs-bold-font-size: 24px;
@@ -472,7 +472,7 @@
   --sd-display-display-xs-bold-paragraph-spacing: 24;
   --sd-display-display-xs-bold-text-case: none;
   --sd-display-display-xs-bold-text-decoration: none;
-  --sd-display-display-xs-semibold-font-family: Inter;
+  --sd-display-display-xs-semibold-font-family: 'Inter';
   --sd-display-display-xs-semibold-font-weight: 600;
   --sd-display-display-xs-semibold-line-height: 32px;
   --sd-display-display-xs-semibold-font-size: 24px;
@@ -480,7 +480,7 @@
   --sd-display-display-xs-semibold-paragraph-spacing: 24;
   --sd-display-display-xs-semibold-text-case: none;
   --sd-display-display-xs-semibold-text-decoration: none;
-  --sd-display-display-xs-medium-font-family: Inter;
+  --sd-display-display-xs-medium-font-family: 'Inter';
   --sd-display-display-xs-medium-font-weight: 500;
   --sd-display-display-xs-medium-line-height: 32px;
   --sd-display-display-xs-medium-font-size: 24px;
@@ -488,7 +488,7 @@
   --sd-display-display-xs-medium-paragraph-spacing: 24;
   --sd-display-display-xs-medium-text-case: none;
   --sd-display-display-xs-medium-text-decoration: none;
-  --sd-display-display-xs-regular-font-family: Inter;
+  --sd-display-display-xs-regular-font-family: 'Inter';
   --sd-display-display-xs-regular-font-weight: 400;
   --sd-display-display-xs-regular-line-height: 32px;
   --sd-display-display-xs-regular-font-size: 24px;

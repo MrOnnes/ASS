@@ -146,11 +146,16 @@ h3{
 }
 
 .type-button1{
-    font-family: 'Inter';
+    font-family: var(--sd-typo-button1-font-family);
     font-style: normal;
     font-weight: var(--sd-typo-button1-font-weight);
-    font-size: var(--sd-typo-button1-font-size);
     line-height: var(--sd-typo-button1-line-height);
+    font-size: var(--sd-typo-button1-font-size);
+    letter-spacing: var(--sd-typo-button1-letter-spacing);
+    word-spacing: var(--sd-typo-button1-paragraph-spacing);
+    text-transform:var(--sd-typo-button1-text-case);
+    text-decoration: var(--sd-typo-button1-text-decoration);
+    
 }
 
 label{
