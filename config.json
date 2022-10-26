@@ -69,7 +69,7 @@
         ]
       },
 
-      
+
       "android": {
         "transformGroup": "android",
         "buildPath": "android/styledictionary/src/main/res/values/",

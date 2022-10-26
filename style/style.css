@@ -15,6 +15,13 @@ body {
   padding: 0;
 }
 
+button{
+    border-radius: var(--sd-shape-button-primary-radius);
+    border-width: 0px;
+    padding: var(--sd-shape-button-button-pad-top) var(--sd-shape-button-button-pad-side);
+    color: var(--sd-color-type-button);
+     
+}
 main{
     display: flex;
     flex-direction: column;
@@ -44,7 +51,6 @@ form{
 
 a{
     text-decoration: none;
-    color: inherit;
     
     /* Text/Text sm Medium */
 
@@ -58,7 +64,7 @@ a{
     
     /* Link/400 */
     
-    color: #53B1FD;
+    color: var(--sd-color-type-link);
 }
 
 form ::placeholder{
@@ -139,12 +145,12 @@ h3{
     line-height: 24px;
 }
 
-.button1{
+.type-button1{
     font-family: 'Inter';
     font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 24px;
+    font-weight: var(--sd-typo-button1-font-weight);
+    font-size: var(--sd-typo-button1-font-size);
+    line-height: var(--sd-typo-button1-line-height);
 }
 
 label{
@@ -178,29 +184,15 @@ label{
     color: #101828;
 }
 
-.button{
+.button-primary{
     display: flex;
     justify-content: center;
 
-    width: -webkit-fill-available;
+    background-color: var(--sd-color-background-primary);
+
+    width: 100%;
     height: 46px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 24px;
-
-    display: flex;
-    align-items: center;
-    text-align: center;
-    text-transform: capitalize;
-    background: var(--sd-color-background-primary);
-    color: #344054;
-    border-radius: 100px;
-    border-width: 0px;
-    border-style: outset;
-    border-color: buttonborder;
     border-image: initial;
 
     cursor: pointer;
@@ -211,14 +203,7 @@ label{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 10px 24px;
     gap: 10px;
-    
-    width: 96px;
-    height: 44px;
-    
-    border-width: 0px;
-    border-radius: 100px;
 }
 
 /* Color */
@@ -378,17 +363,6 @@ input{
     /* Gray/700 */
 
     color: #344054;
-}
-
-.content.login{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 0px;
-    gap: 48px;
-
-    width: inherit;
-    height: 246px;
 }
 
 input:focus{
@@ -621,16 +595,12 @@ footer{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 10px 24px;
     gap: 10px;
     
-    width: 79px;
-    height: 44px;
     
     /* Primary/300 */
     
     background: var(--sd-color-background-primary);
-    border-radius: 100px; 
 }
 
 
@@ -646,7 +616,7 @@ footer{
     padding: 10px 16px;
     gap: 10px;
 
-    width: inherit;
+    width: 100%;
     height: 44px;
 
     background: #FFFFFF;
