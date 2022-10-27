@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 26 Oct 2022 03:40:16 GMT
+ * Generated on Wed, 26 Oct 2022 04:19:36 GMT
  */
 
 :root {
@@ -10,6 +10,7 @@
   --sd-color-type-button: #344054;
   --sd-color-type-placeholder: #98a2b3;
   --sd-color-background-primary: #ffdd00;
+  --sd-color-background-primary-copy: #ffdd00;
   --sd-color-background-primary-light: #fef5cb;
   --sd-color-background-light: #fcfcfd;
   --sd-color-background-dark: #1d2939;

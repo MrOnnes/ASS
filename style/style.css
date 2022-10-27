@@ -223,6 +223,23 @@ label{
     gap: 10px;
 }
 
+.button_outlined{
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    
+    background: var(--sd-color-background-link);
+    color: var(--sd-color-type-link);
+    
+    border: 1px solid var(--sd-color-outline-link);
+}
+
 /* Color */
 
 .color_primary{

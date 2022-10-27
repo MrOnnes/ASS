@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 26 Oct 2022 03:40:16 GMT
+  Generated on Wed, 26 Oct 2022 04:19:36 GMT
 -->
 <resources>
   <color name="color_type_normal">#ff1d2939</color>
@@ -11,6 +11,7 @@
   <color name="color_type_button">#ff344054</color>
   <color name="color_type_placeholder">#ff98a2b3</color>
   <color name="color_background_primary">#ffffdd00</color>
+  <color name="color_background_primary_copy">#ffffdd00</color>
   <color name="color_background_primary_light">#fffef5cb</color>
   <color name="color_background_light">#fffcfcfd</color>
   <color name="color_background_dark">#ff1d2939</color>

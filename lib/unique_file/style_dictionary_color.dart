@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 26 Oct 2022 03:40:16 GMT
+// Generated on Wed, 26 Oct 2022 04:19:36 GMT
 
 
 
@@ -20,6 +20,7 @@ class adrColor {
     static const backgroundLight = Color(0xFFFCFCFD);
     static const backgroundLink = Color(0xFFF5FAFF);
     static const backgroundPrimary = Color(0xFFFFDD00);
+    static const backgroundPrimaryCopy = Color(0xFFFFDD00);
     static const backgroundPrimaryLight = Color(0xFFFEF5CB);
     static const backgroundSuccess = Color(0xFF12B76A);
     static const outlineButtonSecondary = Color(0xFFFCFCFD);

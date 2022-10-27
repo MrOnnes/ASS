@@ -129,6 +129,27 @@
           "primary"
         ]
       },
+      "primary-copy": {
+        "value": "#ffffdd00",
+        "type": "color",
+        "filePath": "output.json",
+        "isSource": true,
+        "original": {
+          "value": "#FFDD00",
+          "type": "color"
+        },
+        "name": "color_background_primary_copy",
+        "attributes": {
+          "category": "color",
+          "type": "background",
+          "item": "primary-copy"
+        },
+        "path": [
+          "color",
+          "background",
+          "primary-copy"
+        ]
+      },
       "primary-light": {
         "value": "#fffef5cb",
         "type": "color",

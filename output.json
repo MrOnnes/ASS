@@ -27,6 +27,10 @@
         "value": "#FFDD00",
         "type": "color"
       },
+      "primary-copy": {
+        "value": "#FFDD00",
+        "type": "color"
+      },
       "primary-light": {
         "value": "#FEF5CB",
         "type": "color"
