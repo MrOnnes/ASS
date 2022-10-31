@@ -1,16 +1,15 @@
 /**
  * Do not edit directly
- * Generated on Wed, 26 Oct 2022 04:19:36 GMT
+ * Generated on Sat, 29 Oct 2022 04:45:32 GMT
  */
 
 :root {
-  --sd-color-type-normal: #1d2939;
-  --sd-color-type-white: #fcfcfd;
-  --sd-color-type-link: #1570ef;
-  --sd-color-type-button: #344054;
-  --sd-color-type-placeholder: #98a2b3;
+  --sd-color-text-normal: #1d2939;
+  --sd-color-text-white: #fcfcfd;
+  --sd-color-text-link: #1570ef;
+  --sd-color-text-button: #344054;
+  --sd-color-text-placeholder: #98a2b3;
   --sd-color-background-primary: #ffdd00;
-  --sd-color-background-primary-copy: #ffdd00;
   --sd-color-background-primary-light: #fef5cb;
   --sd-color-background-light: #fcfcfd;
   --sd-color-background-dark: #1d2939;
@@ -19,28 +18,39 @@
   --sd-color-background-link: #f5faff;
   --sd-color-background-success: #12b76a;
   --sd-color-background-disable: #fcfcfd;
-  --sd-color-outline-button-secondary: #fcfcfd;
-  --sd-color-outline-gray: #98a2b3;
-  --sd-color-outline-link: #b2ddff;
-  --sd-color-outline-disable: #98a2b3;
-  --sd-shape-button-primary-radius: 100px;
-  --sd-shape-button-outlined-radius: 100px;
-  --sd-shape-button-text-radius: 100px;
-  --sd-shape-button-sidebar-radius: 12px;
-  --sd-shape-button-sidebar-gap: 8px;
-  --sd-shape-button-sidebar-pad-all: 4px;
-  --sd-shape-button-sidebar-pad-side: 16px;
-  --sd-shape-button-button-pad-side: 24px;
-  --sd-shape-button-button-pad-top: 8px;
-  --sd-shape-button-button-pad-top-variation: 12px;
-  --sd-shape-button-button-gap: 8px;
-  --sd-shape-button-border: 2;
-  --sd-shape-input-checkbox-radius: 4px;
-  --sd-shape-input-chips-radius: 4px;
-  --sd-shape-input-field-radius: 4px;
-  --sd-shape-display-cards-radius: 12px;
-  --sd-shape-display-dialogs-radius: 28px;
-  --sd-shape-display-tabs-radius: 8px;
+  --sd-color-border-button-secondary: #fcfcfd;
+  --sd-color-border-gray: #98a2b3;
+  --sd-color-border-link: #b2ddff;
+  --sd-color-border-disable: #98a2b3;
+  --sd-size-button-primary-radius: 100px;
+  --sd-size-button-outlined-radius: 100px;
+  --sd-size-button-text-radius: 100px;
+  --sd-size-button-pad-side: 24px;
+  --sd-size-button-pad-top: 8px;
+  --sd-size-button-pad-top-variation: 12px;
+  --sd-size-button-gap: 8px;
+  --sd-size-button-border: 2;
+  --sd-size-sidebar-radius: 12px;
+  --sd-size-sidebar-gap: 8px;
+  --sd-size-sidebar-pad-all: 4px;
+  --sd-size-sidebar-pad-side: 16px;
+  --sd-size-input-checkbox-radius: 4px;
+  --sd-size-input-chips-radius: 4px;
+  --sd-size-input-field-radius: 4px;
+  --sd-size-display-cards-radius: 12px;
+  --sd-size-display-dialogs-radius: 28px;
+  --sd-size-display-tabs-radius: 8px;
+  --sd-size-font-size-12: 12px;
+  --sd-size-font-size-14: 14px;
+  --sd-size-font-size-16: 16px;
+  --sd-size-font-size-18: 18px;
+  --sd-size-font-size-20: 20px;
+  --sd-size-font-size-24: 24px;
+  --sd-size-font-size-30: 30px;
+  --sd-size-font-size-36: 36px;
+  --sd-size-font-size-48: 48px;
+  --sd-size-font-size-60: 60px;
+  --sd-size-font-size-72: 72px;
   --sd-typo-h1-font-family: 'Inter';
   --sd-typo-h1-font-weight: 600;
   --sd-typo-h1-line-height: 38px;

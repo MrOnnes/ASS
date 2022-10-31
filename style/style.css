@@ -1,5 +1,6 @@
 @import url(../build/css/_variables.css);
 
+
 html{
     display: block;
     height: 1024px;
@@ -16,10 +17,10 @@ body {
 }
 
 button{
-    border-radius: var(--sd-shape-button-primary-radius);
+    border-radius: var(--sd-size-button-primary-radius);
     border-width: 0px;
-    padding: var(--sd-shape-button-button-pad-top) var(--sd-shape-button-button-pad-side);
-    color: var(--sd-color-type-button);
+    padding: var(--sd-size-button-pad-top) var(--sd-size-button-pad-side);
+    color: var(--sd-color-text-button);
      
 }
 main{
@@ -64,7 +65,7 @@ a{
     
     /* Link/400 */
     
-    color: var(--sd-color-type-link);
+    color: var(--sd-color-text-link);
 }
 
 form ::placeholder{
@@ -235,7 +236,7 @@ label{
     gap: 8px;
     
     background: var(--sd-color-background-link);
-    color: var(--sd-color-type-link);
+    color: var(--sd-color-text-link);
     
     border: 1px solid var(--sd-color-outline-link);
 }
@@ -251,7 +252,7 @@ label{
 .color_error{
     /* Gray/200 */
 
-    color: var(--sd-color-type-white);
+    color: var(--sd-color-text-white);
     /* Error/500 */
 
     background: var(--sd-color-background-error);
